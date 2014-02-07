@@ -1,3 +1,8 @@
+# See README.md for details, particularly on
+# the "personal" import.
+# 
+
+
 import os
 import glob
 import time
