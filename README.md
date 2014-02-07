@@ -26,6 +26,7 @@ degreesC, and degreesF.  Pytemp-raspi only actually interacts with the latter tw
 credit where credit is due:
 
 The GPIO interface code is from the tutorial at: 
+
 http://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing
 
 The MySQLdb code is modified from code at:
